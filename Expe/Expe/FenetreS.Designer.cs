@@ -1,6 +1,6 @@
 ﻿namespace Expe
 {
-    partial class Sherine
+    partial class FenetreS
     {
         /// <summary>
         /// Required designer variable.

@@ -54,11 +54,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sherine.cs">
+    <Compile Include="FenetreS.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sherine.Designer.cs">
-      <DependentUpon>Sherine.cs</DependentUpon>
+    <Compile Include="FenetreS.Designer.cs">
+      <DependentUpon>FenetreS.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="FenetrePrincipal.resx">
       <DependentUpon>FenetrePrincipal.cs</DependentUpon>
@@ -72,8 +72,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sherine.resx">
-      <DependentUpon>Sherine.cs</DependentUpon>
+    <EmbeddedResource Include="FenetreS.resx">
+      <DependentUpon>FenetreS.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

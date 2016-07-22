@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Expe
 {
-    public partial class Sherine : Form
+    public partial class FenetreS : Form
     {
-        public Sherine()
+        public FenetreS()
         {
             InitializeComponent();
         }
