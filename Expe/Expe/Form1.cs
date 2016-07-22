@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Expe
 {
-    public partial class FenetrePrincipal : Form
+    public partial class Form1 : Form
     {
-        public FenetrePrincipal()
+        public Form1()
         {
             InitializeComponent();
         }
