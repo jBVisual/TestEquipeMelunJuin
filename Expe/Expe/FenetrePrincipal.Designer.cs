@@ -1,6 +1,6 @@
 ﻿namespace Expe
 {
-    partial class Form1
+    partial class FenetrePrincipal
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
